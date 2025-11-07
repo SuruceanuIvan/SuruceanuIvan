@@ -3,7 +3,7 @@
 <h2>:floppy_disk: Embedded Projects</h2>
 <ul>
   <li><a href="https://github.com/SuruceanuIvan/MSP430Uploader" class="link"> MSP430 Uploader </a></li>
-  <li><a href="#" class="link"> ID Card Scanner Software </a></li>
+  <li><a href="https://github.com/SuruceanuIvan/ID-Card-Scanner-Software/tree/main" class="link"> ID Card Scanner Software </a></li>
   <li><a href="#" class="link"> Digital processing of the information transmitted by an energy meter </a></li>
 </ul>
 
