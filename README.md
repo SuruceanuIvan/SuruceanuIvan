@@ -47,4 +47,4 @@
 
 [facebook]: https://www.facebook.com/profile.php?id=61554281648265&locale=ru_RU
 [instagram]: https://www.instagram.com/_johnivans/
-[linkedin]: #
+[linkedin]: https://www.linkedin.com/in/ivan-suruceanu-a40097396/
