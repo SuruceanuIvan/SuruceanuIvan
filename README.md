@@ -9,17 +9,17 @@
 
 <h2>:computer: Full Stack Web Apps</h2>
 <ul>
-  <li><a href="#" class="link"> KidsAcademy Administration Platform </a></li>
-  <li><a href="#" class="link"> Students Volunteer Administration Platform </a></li>
-  <li><a href="#" class="link"> Software for tracking and managing the repair of special equipment </a></li>
-  <li><a href="#" class="link"> Herman's Site </a></li>
-  <li><a href="#" class="link"> School Administration Platform </a></li>
+  <li><a href="#" class="link"> KidsAcademy Administration Platform (not uploaded)</a></li>
+  <li><a href="#" class="link"> Students Volunteer Administration Platform (not uploaded)</a></li>
+  <li><a href="#" class="link"> Software for tracking and managing the repair of special equipment (not uploaded)</a></li>
+  <li><a href="#" class="link"> Herman's Site (not uploaded)</a></li>
+  <li><a href="#" class="link"> School Administration Platform (not uploaded)</a></li>
 </ul>
 
 <h2>:snake: Python</h2>
 <ul>
-  <li><a href="#" class="link"> Medical Statistics Agregator </a></li>
-  <li><a href="#" class="link"> Promotional Python Game </a></li>
+  <li><a href="#" class="link"> Medical Statistics Agregator (not uploaded)</a></li>
+  <li><a href="#" class="link"> Promotional Python Game (not uploaded)</a></li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>
