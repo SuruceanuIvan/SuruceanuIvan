@@ -4,7 +4,7 @@
 <ul>
   <li><a href="https://github.com/SuruceanuIvan/MSP430Uploader" class="link"> MSP430 Uploader </a></li>
   <li><a href="https://github.com/SuruceanuIvan/ID-Card-Scanner-Software/tree/main" class="link"> ID Card Scanner Software </a></li>
-  <li><a href="#" class="link"> Digital processing of the information transmitted by an energy meter </a></li>
+  <li><a href="https://github.com/SuruceanuIvan/Digital-processing-of-the-information-transmitted-by-an-energy-meter" class="link"> Digital processing of the information transmitted by an energy meter </a></li>
 </ul>
 
 <h2>:computer: Full Stack Web Apps</h2>
