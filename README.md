@@ -9,7 +9,7 @@
   <li><a href="https://github.com/SuruceanuIvan/ID-Card-Scanner-Software/tree/main" class="link"> ID Card Scanner Software </a></li>
   <li><a href="https://github.com/SuruceanuIvan/Digital-processing-of-the-information-transmitted-by-an-energy-meter" class="link"> Digital processing of the information transmitted by an energy meter </a></li>
 </ul>
-
+<!--
 <h2>:computer: Full Stack Web Apps</h2>
 <ul>
   <li><a href="#" class="link"> KidsAcademy Administration Platform (not uploaded)</a></li>
@@ -23,7 +23,7 @@
 <ul>
   <li><a href="#" class="link"> Medical Statistics Agregator (not uploaded)</a></li>
   <li><a href="#" class="link"> Promotional Python Game (not uploaded)</a></li>
-</ul>
+</ul>-->
 
 # Portfolio Summary:
 
